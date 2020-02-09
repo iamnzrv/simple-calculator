@@ -1,0 +1,4 @@
+#Mon Nov 11 14:07:04 MSK 2019
+base.0=/home/iamnzrv/Projects/AndroidStudioProjects/SimpleCalculator/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
